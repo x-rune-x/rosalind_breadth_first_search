@@ -1,0 +1,6 @@
+/.vs
+/bin
+/BreadthFirstSearch
+/obj
+BreadthFirstSearch.csproj
+BreadthFirstSearch.sln
